@@ -25,5 +25,16 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebellix/MERN-shopping-cart.git"
+  },
+  "author": "rebellix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebellix/MERN-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/rebellix/MERN-shopping-cart#readme",
+  "heroku-app-name": "young-beyond-93678"
 }
